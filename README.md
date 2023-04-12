@@ -84,4 +84,4 @@ especially since most users are used to interacting with cell phones
 which provide similar interaction styles.
 
 # License
-This code is provided is under the GNU General Public License
+This code is provided under the GNU General Public License
