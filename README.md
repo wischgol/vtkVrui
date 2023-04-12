@@ -44,7 +44,9 @@ In addition, support for touch-based devices is provided with this
 framework. The <em>TouchNavigationTool</em> class is loosely based on
 the <em>MouseNavigationTool</em> provided by VRUI. It assumes that a
 link in <em>/dev/touch</em> points to the proper event input device for
-the touchad or touchscreen. In order to support touch devices in other
+the touchpad or touchscreen. We created a dedicated rule for the
+\emph{udev daemon} to create this file with the appropriate
+permissions. In order to support touch devices in other
 VRUI-based applications, one only needs to copy the
 <em>TouchNavigationTool</em> class into the project and initialize the
 touch tool. A factory for initializing the tool is already in place so
