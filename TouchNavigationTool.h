@@ -1,24 +1,8 @@
 /***********************************************************************
-MouseNavigationTool - Class encapsulating the navigation behaviour of a
-mouse in the OpenInventor SoXtExaminerViewer.
-Copyright (c) 2004-2011 Oliver Kreylos
+TouchNavigationTool - Class encapsulating the navigation behaviour of a
+touch interface. It is based on Vrui's MouseNavigationTool.
+Copyright (c) 2016-2023 Thoams Wischgoll
 
-This file is part of the Virtual Reality User Interface Library (Vrui).
-
-The Virtual Reality User Interface Library is free software; you can
-redistribute it and/or modify it under the terms of the GNU General
-Public License as published by the Free Software Foundation; either
-version 2 of the License, or (at your option) any later version.
-
-The Virtual Reality User Interface Library is distributed in the hope
-that it will be useful, but WITHOUT ANY WARRANTY; without even the
-implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
-PURPOSE.  See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along
-with the Virtual Reality User Interface Library; if not, write to the
-Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA
-02111-1307 USA
 ***********************************************************************/
 
 #ifndef VRUI_TOUCHNAVIGATIONTOOL_INCLUDED
