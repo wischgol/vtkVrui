@@ -1,3 +1,10 @@
+/***********************************************************************
+vtkVrui - Program for rendering on virtual reality display systems
+using Vrui and VTK. It is based on Vrui's basic framework and VTK's
+Mace example.
+Copyright (c) 2016-2023 Thoams Wischgoll
+
+***********************************************************************/
 #include <vtkVersion.h>
 #include <vtkVersionMacros.h>
 
